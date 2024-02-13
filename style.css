@@ -1,0 +1,16 @@
+/* ... previous styles ... */
+
+.thick-border {
+    border-bottom: 10px solid black; /* Adjust thickness as needed */
+  }
+  
+  #contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  #contact .list-group-item {
+    font-size: 1.1rem;
+  }
+  
